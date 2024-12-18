@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Dodgeball.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0DB45041-DB6D-4BA3-BC19-4B12DE5CE62B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dodgeball.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DodgeballEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{91CC45A2-79BD-4A05-B36E-4CCD9AB4E120}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Dodgeball">
+      <UniqueIdentifier>{6B8DFECE-BA76-4730-8E67-3DE0A059F378}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dodgeball\Dodgeball.Build.cs">
+      <Filter>Source\Dodgeball</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Dodgeball\Dodgeball.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\Dodgeball.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\DodgeballCharacter.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\DodgeballCharacter.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\DodgeballFunctionLibrary.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\DodgeballFunctionLibrary.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\DodgeballGameMode.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\DodgeballGameMode.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\DodgeballProjectile.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\DodgeballProjectile.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\Enemycharacter.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\Enemycharacter.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\HealthComponento.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\HealthComponento.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\HealthInterface.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\HealthInterface.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\LookAtActorComponent.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\LookAtActorComponent.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\VictoryBox.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\VictoryBox.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Dodgeball\Wall.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dodgeball\Wall.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Dodgeball\RestartWidget.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dodgeball\DodgeballPlayerController.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dodgeball\HUDWidget.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dodgeball\MusicManager.h">
+      <Filter>Source\Dodgeball</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Dodgeball\RestartWidget.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dodgeball\DodgeballPlayerController.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dodgeball\HUDWidget.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dodgeball\MusicManager.cpp">
+      <Filter>Source\Dodgeball</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

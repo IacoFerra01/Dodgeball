@@ -1,0 +1,19 @@
+C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Definitions.Dodgeball.h
+c:\users\ferra\documents\unreal projects\dodgeball\source\dodgeball\VictoryBox.h
+C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Inc\Dodgeball\VictoryBox.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+c:\users\ferra\documents\unreal projects\dodgeball\source\dodgeball\DodgeballCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\ferra\documents\unreal projects\dodgeball\source\dodgeball\HealthInterface.h
+C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Inc\Dodgeball\HealthInterface.generated.h
+C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Inc\Dodgeball\DodgeballCharacter.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h

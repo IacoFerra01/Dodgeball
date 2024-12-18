@@ -1,0 +1,42 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Dodgeball-5545.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\DodgeballEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Dodgeball.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballCharacter.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballFunctionLibrary.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballGameMode.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballPlayerController.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballProjectile.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Enemycharacter.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HealthComponento.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HealthInterface.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HUDWidget.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\LookAtActorComponent.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\MusicManager.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\RestartWidget.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\VictoryBox.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Wall.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Dodgeball.init.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballCharacter.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballFunctionLibrary.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballGameMode.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballPlayerController.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballProjectile.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Enemycharacter.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HealthComponento.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HealthInterface.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\HUDWidget.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\LookAtActorComponent.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\MusicManager.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\RestartWidget.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\VictoryBox.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Wall.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Default.rc2.res"
+/OUT:"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-5545.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dodgeball

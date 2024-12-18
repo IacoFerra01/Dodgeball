@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Dodgeball-0033.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\DodgeballEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Dodgeball.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballCharacter.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballGameMode.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Enemycharacter.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Dodgeball.init.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballCharacter.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\DodgeballGameMode.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Enemycharacter.gen.cpp.obj"
+"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\Default.rc2.res"
+/OUT:"C:\Users\ferra\Documents\Unreal Projects\Dodgeball\Intermediate\Build\Win64\UE4Editor\Development\Dodgeball\UE4Editor-Dodgeball-0033.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dodgeball
